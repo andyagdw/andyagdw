@@ -1,5 +1,5 @@
-<div>
-    <img width="750" height="400" src="https://github.com/andyagdw/andyagdw/assets/138252680/0481d3c0-c92a-4a09-9e1a-47d61bc8ecd4" alt="my banner" />
+<div align="center">
+    <img width="800" height="400" src="https://github.com/andyagdw/andyagdw/assets/138252680/0481d3c0-c92a-4a09-9e1a-47d61bc8ecd4" alt="my banner" />
 </div>
 
 <div>
