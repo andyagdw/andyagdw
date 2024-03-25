@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="800" height="400" src="https://github.com/andyagdw/andyagdw/assets/138252680/0481d3c0-c92a-4a09-9e1a-47d61bc8ecd4" alt="my banner" />
+    <img width="800" height="400" src="https://github.com/andyagdw/andyagdw/assets/138252680/15fa09b3-07ef-4ce2-a31f-be21e815dc8b" alt="my banner" />
 </div>
 
 <div>
@@ -9,9 +9,9 @@
 
 <div>
     <h2>Skills</h2>
-    <img width="65" height="65" src="/images/html-5.png" alt="html icon" />
-    <img width="65" height="65" src="/images/css-3.png" alt="css icon" />
-    <img width="65" height="65" src="/images/js.png" alt="javascript icon" />
-    <img width="65" height="65" src="/images/python.png" alt="python icon" />
-    <img width="65" height="65" src="/images/react.png" alt="react icon" />
+    <img width="60" height="60" src="/images/html-5.png" alt="html icon" />
+    <img width="60" height="60" src="/images/css-3.png" alt="css icon" />
+    <img width="60" height="60" src="/images/js.png" alt="javascript icon" />
+    <img width="60" height="60" src="/images/python.png" alt="python icon" />
+    <img width="60" height="60" src="/images/react.png" alt="react icon" />
 </div>
