@@ -9,6 +9,9 @@ Hey there!👋 I'm Andy, a student currently diving deep into the world of softw
 - Git ⌨️
 - React ⚛️
 
+#
+![](https://komarev.com/ghpvc/?username=andyagdw&style=plastic&color=dc143c&abbreviated=true)
+
 <!-- <div id="banner" align="center"><img width="800" height="400" src="https://github.com/andyagdw/andyagdw/assets/138252680/b702fe4a-1a09-465f-8a1c-62752f05690e" alt="my banner" /></div> -->
 <!-- <div id="skills">
     <img width="60" height="60" src="/images/html-5.png" alt="html icon" />
