@@ -1,4 +1,9 @@
-![my banner](https://github.com/andyagdw/andyagdw/assets/138252680/1b449be9-88ba-4872-9993-63bcb8074056)
+<!-- ![my banner](https://github.com/andyagdw/andyagdw/assets/138252680/1b449be9-88ba-4872-9993-63bcb8074056) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andyagdw/andyagdw/assets/138252680/1b449be9-88ba-4872-9993-63bcb8074056">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/andyagdw/andyagdw/assets/138252680/f9dc417a-6c0c-4411-9b90-57ac25e5e4df">
+  <img alt="Shows my banner with a set of light colours for light mode and different colours used for dark mode" src="https://github.com/andyagdw/andyagdw/assets/138252680/f9dc417a-6c0c-4411-9b90-57ac25e5e4df">
+</picture>
 
 # About Me
 Hey there!👋 I'm Andy, a student currently diving deep into the world of software engineering through a Skills Bootcamp at CoGrammar and HyperionDev💥. My coding journey began during my university days when I embarked on a 'Year in Computing' as part of my Criminology and Sociology degree around 2022/23. Since then, I have become passionate about all things coding and programming and I'm excited to see where this journey takes me in the world of technology and innovation😁.
