@@ -1,4 +1,4 @@
-![my banner](https://github.com/andyagdw/andyagdw/assets/138252680/eff1b45f-f779-46ab-bb6e-231e6710cc90)
+![my banner](https://github.com/andyagdw/andyagdw/assets/138252680/1b449be9-88ba-4872-9993-63bcb8074056)
 
 # About Me
 Hey there!👋 I'm Andy, a student currently diving deep into the world of software engineering through a Skills Bootcamp at CoGrammar and HyperionDev💥. My coding journey began during my university days when I embarked on a 'Year in Computing' as part of my Criminology and Sociology degree around 2022/23. Since then, I have become passionate about all things coding and programming and I'm excited to see where this journey takes me in the world of technology and innovation😁.
