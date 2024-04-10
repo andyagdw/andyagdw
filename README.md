@@ -16,7 +16,7 @@ Hey there!👋 I'm Andy, a student currently diving deep into the world of softw
 
 <br >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyagdw)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyagdw)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #
 ![](https://komarev.com/ghpvc/?username=andyagdw&style=plastic&color=dc143c&abbreviated=true)
