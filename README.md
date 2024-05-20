@@ -19,7 +19,7 @@ Hey there!👋 I'm Andy, a student currently diving deep into the world of softw
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyagdw)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #
-![](https://komarev.com/ghpvc/?username=andyagdw&style=plastic&color=dc143c&abbreviated=true)
+<!-- ![](https://komarev.com/ghpvc/?username=andyagdw&style=plastic&color=dc143c&abbreviated=true) -->
 
 <!-- <div id="banner" align="center"><img width="800" height="400" src="https://github.com/andyagdw/andyagdw/assets/138252680/b702fe4a-1a09-465f-8a1c-62752f05690e" alt="my banner" /></div> -->
 <!-- <div id="skills">
