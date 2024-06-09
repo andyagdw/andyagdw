@@ -6,13 +6,26 @@
 </picture>
 
 # About Me
-Hey there!👋 I'm Andy, a student currently diving deep into the world of software engineering through a Skills Bootcamp at CoGrammar and HyperionDev💥. My coding journey began during my university days when I embarked on a 'Year in Computing' as part of my Criminology and Sociology degree around 2022/23. Since then, I have become passionate about all things coding and programming and I'm excited to see where this journey takes me in the world of technology and innovation😁.
+Hey there, I'm Andy👋. My coding journey began during my university days when I embarked on a 'Year in Computing' as part of my Criminology
+and Sociology degree around 2022/23. Since then, I have become passionate about all things coding and programming, and I'm excited to see where
+this journey takes me in the world of technology and innovation😁. 
 
-# Skills
+I am currently nearing the end of my software engineering Skills Bootcamp at CoGrammar and HyperionDev💥.
+
+## Skills
 - HTML, CSS, and JavaScript 💻
 - Python 🐍
 - Git ⌨️
 - React ⚛️
+
+## Projects I am currently working on
+- **Sticky Notes Task Manager Application**: A task management app allowing users to perform
+CRUD operations on tasks.
+  * Built with Django
+- **Word Wizards learning platform**: 'Word Wizards' is a learning platform that helps users expand their vocabulary and enhance language skills.
+Tailored for different user levels (Starter to Pro), it uses the WordsAPI to provide detailed word information. Users can log in, favourite words,
+view word details, and upgrade their accounts for more features.
+  * Built with Django and WordsAPI
 
 <br >
 
