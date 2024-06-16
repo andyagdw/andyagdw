@@ -30,16 +30,9 @@ I am currently nearing the end of my software engineering Skills Bootcamp at CoG
 - **Sticky Notes Task Manager Application**: A task management app allowing users to perform
 CRUD operations on tasks.
   * Built with Django
-- **Word Wizards learning platform**: 'Word Wizards' is a learning platform that helps users expand their vocabulary and enhance language skills.
-Tailored for different user levels (Starter to Pro), it uses the WordsAPI to provide detailed word information. Users can log in, favourite words,
-view word details, and upgrade their accounts for more features.
-  * Built with Django and WordsAPI
-
-<br >
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyagdw)](https://github.com/anuraghazra/github-readme-stats) -->
 
-#
 <!-- ![](https://komarev.com/ghpvc/?username=andyagdw&style=plastic&color=dc143c&abbreviated=true) -->
 
 <!-- <div id="banner" align="center"><img width="800" height="400" src="https://github.com/andyagdw/andyagdw/assets/138252680/b702fe4a-1a09-465f-8a1c-62752f05690e" alt="my banner" /></div> -->
