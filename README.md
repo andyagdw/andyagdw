@@ -27,11 +27,6 @@ equipping me with valuable skills and knowledge to thrive in the tech industry.
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 </div>
 
-## Projects I am currently working on
-- **Sticky Notes Task Manager Application**: A task management app allowing users to perform
-CRUD operations on tasks.
-  * Built with Django
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyagdw)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=andyagdw&style=plastic&color=dc143c&abbreviated=true) -->
