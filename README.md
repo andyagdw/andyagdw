@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andyagdw/andyagdw/assets/138252680/1b449be9-88ba-4872-9993-63bcb8074056">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/andyagdw/andyagdw/assets/138252680/f9dc417a-6c0c-4411-9b90-57ac25e5e4df">
-  <img alt="Shows my banner with a set of light colours for light mode and different colours used for dark mode" src="https://github.com/andyagdw/andyagdw/assets/138252680/f9dc417a-6c0c-4411-9b90-57ac25e5e4df">
+  <img alt="Banner with a set of light colours for light mode and different colours used for dark mode" src="https://github.com/andyagdw/andyagdw/assets/138252680/f9dc417a-6c0c-4411-9b90-57ac25e5e4df">
 </picture>
 
 # About Me
@@ -10,7 +10,8 @@ Hey there, I'm Andy👋. My coding journey began during my university days when 
 and Sociology degree around 2022/23. Since then, I have become passionate about all things coding and programming, and I'm excited to see where
 this journey takes me in the world of technology and innovation😁. 
 
-I am currently nearing the end of my software engineering Skills Bootcamp at CoGrammar and HyperionDev💥.
+Moreover, I have recently completed a comprehensive Software Engineering Skills Bootcamp at CoGrammar and HyperionDev💥,
+equipping me with valuable skills and knowledge to thrive in the tech industry.
 
 ## Technologies
 <div>
