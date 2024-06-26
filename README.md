@@ -29,7 +29,7 @@ equipping me with valuable skills and knowledge to thrive in the tech industry.
 
 ## Projects I am currently working on
 
-**LinkedIn landing page**: HTML, CSS, Bootstrap, Python
+**LinkedIn landing page**: HTML, CSS, Bootstrap, Python, Django
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyagdw)](https://github.com/anuraghazra/github-readme-stats) -->
