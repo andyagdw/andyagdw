@@ -29,7 +29,8 @@ equipping me with valuable skills and knowledge to thrive in the tech industry.
 
 ## Projects I am working on
 
-**Weather App**: React
+**WatchWise**: Aims to provide users with comprehensive information on movies and TV shows across popular streaming platforms
+like Netflix, Prime, Disney, HBO, and Hulu. This project will be built using React and the MoviesAPI.
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyagdw)](https://github.com/anuraghazra/github-readme-stats) -->
